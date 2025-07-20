@@ -22,7 +22,7 @@ Welcome to the Yelp Camp repository! This project is a full-stack web applicatio
 - Flash messages using connect-flash
 - Session management with express-session and connect-mongo
 - Data sanitization using Express Mongoose Sanitize and sanitize-html
-- Enhanced security with Helmet
+- Enhanced security with Helme
 
 ![image](https://github.com/AtHaRaVs/yelpCamp/assets/99896281/5f9ec130-6e08-43ab-aeb2-a609572795fd)
 ![image](https://github.com/AtHaRaVs/yelpCamp/assets/99896281/7be6a4c1-1e5b-4de1-b15a-c2c97fd2e113)
